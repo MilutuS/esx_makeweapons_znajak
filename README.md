@@ -2,6 +2,8 @@
 esx_makeweapons
 Simple script which introduces weapon creating to your fivem server
 
+https://www.youtube.com/watch?v=vX_V12uP7Zs
+
 ITEMS to SQL
 
 sprezyna_ak47
