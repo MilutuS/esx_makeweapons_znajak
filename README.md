@@ -5,17 +5,25 @@ Simple script which introduces weapon creating to your fivem server
 ITEMS to SQL
 
 sprezyna_ak47
+
 zamek_ak47
+
 lufa_ak47
 
 sprezyna_sns
+
 zamek_sns
+
 lufa_sns
 
 sprezyna_smg
+
 zamek_smg
+
 lufa_smg
 
 sprezyna_sniper
+
 zamek_sniper
+
 lufa_sniper
